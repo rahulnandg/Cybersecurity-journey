@@ -54,4 +54,4 @@ This repo is my public learning log, documenting everything I've done — from t
 
 ## 🤝 Connect With Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/Rahul-Nandagopal)
-- 🌐 [TryHackMe](https://tryhackme.com/p/rahulnandagopal91@gmail.com)
+- 🌐 [TryHackMe](https://tryhackme.com/p/rahulnandagopal91)
