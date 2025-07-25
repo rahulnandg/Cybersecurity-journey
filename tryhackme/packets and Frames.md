@@ -46,7 +46,6 @@ This module sharpened my ability to:
 ## 🧠 Practical Relevance for Cybersecurity Roles
 
 ✅ As a future **SOC Analyst** or **Blue Teamer**, I’ll be:
-- Working with tools like **Wireshark**, **Zeek**, and **Suricata**
 - Analyzing traffic flow at the **packet/frame level**
 - Investigating how malware or attackers move laterally or exfiltrate data
 
