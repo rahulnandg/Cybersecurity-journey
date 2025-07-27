@@ -67,7 +67,7 @@ Welcome to my documentation of the **DNS in Detail** room from [TryHackMe](https
 If you're looking for someone passionate about security, learning, and teaching — let’s connect.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rahul-nandagopal/)
-- 🛠️ 
+  
 
 ---
 
