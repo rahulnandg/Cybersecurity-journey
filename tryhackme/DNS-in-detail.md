@@ -27,7 +27,7 @@ Welcome to my documentation of the **DNS in Detail** room from [TryHackMe](https
 | **MX**      | Mail exchange (email routing) |
 | **NS**      | Name server for a domain |
 | **TXT**     | Arbitrary text; often used for verification and SPF |
-| **SOA**     | Start of Authority; holds admin info about domain |
+
 
 ### 📌 4. How DNS Requests Work
 1. User types a domain into the browser.
@@ -41,7 +41,6 @@ Welcome to my documentation of the **DNS in Detail** room from [TryHackMe](https
 ## 🛠️ Skills Gained
 - Deep understanding of DNS lookup flow
 - Analyzing and identifying DNS record types
-- Real-world security implications of DNS misconfiguration
 - Networking fundamentals from a cybersecurity perspective
 
 ---
