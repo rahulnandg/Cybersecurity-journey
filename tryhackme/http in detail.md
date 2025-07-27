@@ -22,7 +22,7 @@ This course helped me deeply understand how the web works at the protocol level 
 - `POST`: Submit data
 - `PUT`: Update existing data
 - `DELETE`: Remove data
-- `HEAD`, `OPTIONS`, `PATCH`, and others
+
 
 ### 📌 4. HTTP Status Codes
 - Informational: 100–199
