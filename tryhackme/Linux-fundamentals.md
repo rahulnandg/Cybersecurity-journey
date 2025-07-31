@@ -87,8 +87,6 @@ If you’re looking for someone who is:
 
 ---
 
-## 📌 Hashtags for LinkedIn Post
 
-#Linux #CyberSecurity #SOCAnalyst #TryHackMe #LinuxFundamentals #InfoSec #EthicalHacking #BlueTeam #TerminalSkills #ShellScripting #OpenSource #GitHubPortfolio #THM #CyberSecurityIndia
 
 
