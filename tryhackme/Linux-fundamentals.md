@@ -81,7 +81,7 @@ If you’re looking for someone who is:
 - Actively building and growing in cybersecurity  
 
 📩 Let’s talk!  
-📧 Email: yourname@example.com  
+📧 Email: rahulnandagopal91@gmail.com
 🔗 [LinkedIn[])(https://www.linkedin.com/in/rahul-nandagopal/)
 
 
