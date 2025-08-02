@@ -18,7 +18,7 @@ SSH into the remote machine as `bandit1` and retrieve the password for `bandit2`
 
 ### 🔹 Step 1: SSH into the server
 
-```bash
+
 ssh bandit1@bandit.labs.overthewire.org -p 2220
 🔍 This command connects to the remote server using SSH on port 2220 as user bandit1.
 
@@ -28,7 +28,7 @@ ls
 (-)
 The dash (-) is tricky because it's usually used as an option flag in Linux commands.
 
-🔹 Step 3: View the contents of the file named -
+🔹 Step 3: View the contents of the file named (-)
 cat ./-
 🔍 ./ tells the system to look for the file named - in the current directory, avoiding the confusion with command flags.
 
