@@ -58,7 +58,7 @@ I’m actively looking for opportunities in **cybersecurity**, especially entry-
 - IT Security Support
 - Blue Team Internships
 
-📫 Reach out via [LinkedIn](https://www.linkedin.com) or browse more of my hands-on labs here on GitHub!
+📫 Reach out via [LinkedIn](https://www.linkedin.com/in/rahul-nandagopal/recent-activity/all/) or browse more of my hands-on labs here on GitHub!
 
 ---
 
