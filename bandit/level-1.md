@@ -11,8 +11,7 @@ SSH into the remote machine as `bandit1` and retrieve the password for `bandit2`
 - **Username:** `bandit1`
 - **Host:** `bandit.labs.overthewire.org`
 - **Port:** `2220`
-- **Password from Level 0:** `boJ9jbbUNNfktd78OOpsqOltutMc3MY1`
-
+- **Password from Level 0:** `ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If'
 ---
 
 ## 🛠️ Step-by-Step Solution
