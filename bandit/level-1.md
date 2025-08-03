@@ -23,7 +23,7 @@ ssh bandit1@bandit.labs.overthewire.org -p 2220
 🔍 This command connects to the remote server using SSH on port 2220 as user bandit1.
 
 🔹 Step 2: List all files in the home directory
-ls
+**ls**
 🔍 Lists all files in the current directory. You’ll see a file named:
 (-)
 The dash (-) is tricky because it's usually used as an option flag in Linux commands.
