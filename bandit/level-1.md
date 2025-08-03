@@ -29,8 +29,8 @@ ls
 The dash (-) is tricky because it's usually used as an option flag in Linux commands.
 
 🔹 Step 3: View the contents of the file named (-)
-cat ./-
-🔍 ./ tells the system to look for the file named - in the current directory, avoiding the confusion with command flags.
+**cat ./-**
+🔍 ./ tells the system to look for the file named (-) in the current directory, avoiding the confusion with command flags.
 
 📥 This reveals the password for the next level.
 
