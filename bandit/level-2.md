@@ -51,7 +51,7 @@ ssh user@host -p port	Connects to a remote server via SSH
 ls -a	Lists all files, including hidden ones
 cat ./"filename with spaces"	Reads a file with a tricky name
 
-**What I Learned**
+**What I Learned**:
 1.How to SSH into a server on a custom port
 
 2.How to list hidden files with ls -a
