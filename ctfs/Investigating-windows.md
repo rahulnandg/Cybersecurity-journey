@@ -67,6 +67,11 @@ Using PowerShell for investigation
 
 Understanding login events and user activity
 
+🔗 Related
+TryHackMe - https://tryhackme.com/room/investigatingwindows
+
+
+
 
 
 
