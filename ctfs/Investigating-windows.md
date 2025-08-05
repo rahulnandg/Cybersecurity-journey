@@ -11,10 +11,10 @@ All answers below were found using native Windows tools — mainly **PowerShell*
 **🔍 Objective:** Identify the OS version and its release year.
 
 **🛠️ Method:**
-I used `Get-ComputerInfo to fetch the Windows version.
+I used Get-ComputerInfo -property "os*" to fetch the Windows version.
 
 **📄 PowerShell Command:**
-Get-ComputerInfo
+Get-ComputerInfo -property "os*" 
 
 📌 Answer:
 Windows datacenter 2016
