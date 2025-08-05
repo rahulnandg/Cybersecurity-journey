@@ -14,7 +14,7 @@ bandit2@...: You're logging in as user bandit2.
 
  You'll be asked for the password you got from Level 1.
 
- 2. List all files in the current directory
+ **2. List all files in the current directory**
 ls -a
 ls: Lists files and directories.
 
@@ -30,7 +30,7 @@ Because: The --spaces part is interpreted as a command-line option (not a filena
 
 The spaces break the input into multiple arguments, which is not what we want.
 
-3. Proper way to read the file
+**3. Proper way to read the file**
 cat ./"--spaces in this filename--"
 cat: Displays file contents.
 
