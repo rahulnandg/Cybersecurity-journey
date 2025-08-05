@@ -52,11 +52,11 @@ ls -a	Lists all files, including hidden ones
 cat ./"filename with spaces"	Reads a file with a tricky name
 
 **What I Learned**
-How to SSH into a server on a custom port
+1.How to SSH into a server on a custom port
 
-How to list hidden files with ls -a
+2.How to list hidden files with ls -a
 
-How to handle filenames with spaces and special characters using quotes
+3.How to handle filenames with spaces and special characters using quotes
 
 That -- at the start of a filename can act like a command-line flag and break your command
 
