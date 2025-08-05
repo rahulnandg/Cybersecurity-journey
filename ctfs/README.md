@@ -16,7 +16,7 @@ This directory contains my hands-on solutions and writeups for various cybersecu
 
 | CTF Name               | Platform       | Description                                         | Link             |
 |------------------------|----------------|-----------------------------------------------------|------------------|
-| Investigating Windows  | TryHackMe      | A Windows forensic challenge focused on log analysis, user behavior, and system events. | [View Writeup](./investigating-windows/README.md) |
+| Investigating Windows  | TryHackMe      | A Windows forensic challenge focused on log analysis, user behavior, and system events. | [View Writeup](https://github.com/rahulnandg/Cybersecurity-journey/blob/main/ctfs/Investigating-windows.md) |
 
 <!-- Add more entries here -->
 
