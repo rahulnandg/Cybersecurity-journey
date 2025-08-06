@@ -18,9 +18,8 @@ Command	Purpose
 🧭 Step-by-Step Solution
 🔹 Step 1: List everything in the current directory
 "ls -a"
-The "-a" option shows all files — even hidden ones. This revealed a hidden directory called:
+The "-a" option shows all files — even hidden ones. This revealed a hidden directory called: ".inhere".
 
-".inhere"
 🔹 Step 2: Go inside the .inhere directory
 "cd inhere"
 Now we are inside the hidden folder where the password might be stored.
