@@ -1,6 +1,7 @@
 🕵️‍♂️ OverTheWire Bandit – Level 3 Walkthrough
-Goal:
-Find the password for the next level, hidden somewhere inside a folder.
+
+
+Goal:Find the password for the next level, hidden somewhere inside a folder.
 
 ✅ Level Summary
 Current Level: Bandit Level 3
@@ -16,6 +17,7 @@ Command	Purpose
 "cat"	Display the contents of a file
 
 🧭 Step-by-Step Solution
+
 🔹 Step 1: List everything in the current directory
 "ls -a"
 The "-a" option shows all files — even hidden ones. This revealed a hidden directory called: ".inhere".
