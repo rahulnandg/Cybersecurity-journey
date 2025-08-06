@@ -45,7 +45,8 @@ File and folder names can start with multiple dots — don’t ignore them!
 
 Knowing how to navigate and inspect the file system is a core Linux skill.
 
-🧑‍💻 Why This Matters
+🧑‍💻 Why This Matters:
+
 This challenge tested my ability to:
 
 Work in the Linux command-line environment
